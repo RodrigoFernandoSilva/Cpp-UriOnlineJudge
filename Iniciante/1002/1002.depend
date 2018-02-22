@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1519223963 source:c:\5.0 mygamesready\cpp-urionlinejudge\iniciante\1002\main.cpp
+	<iostream>
+	<math.h>
+
